@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\bin\Debug\net6.0\Datetime ve Math.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\bin\Debug\net6.0\Datetime ve Math.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\bin\Debug\net6.0\Datetime ve Math.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\bin\Debug\net6.0\Datetime ve Math.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\bin\Debug\net6.0\Datetime ve Math.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\obj\Debug\net6.0\Datetime ve Math.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\obj\Debug\net6.0\Datetime ve Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\obj\Debug\net6.0\Datetime ve Math.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\obj\Debug\net6.0\Datetime ve Math.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\obj\Debug\net6.0\Datetime ve Math.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\obj\Debug\net6.0\Datetime ve Math.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\obj\Debug\net6.0\refint\Datetime ve Math.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\obj\Debug\net6.0\Datetime ve Math.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\obj\Debug\net6.0\Datetime ve Math.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Datetime ve Math\obj\Debug\net6.0\ref\Datetime ve Math.dll
